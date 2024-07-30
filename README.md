@@ -54,7 +54,8 @@ pip install -r requirements.txt
 
 - Run the server :
 ```
-http://localhost:5000/
+python app.py
+open http://localhost:5000/
 ```
 
 
