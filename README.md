@@ -61,4 +61,4 @@ http://localhost:5000/
 ### Model used
 
 - OpenAI Whisper as Automatic Speech Recognition
-- facebook/bart-large-cnn open LLM for Summarize the transcription
+- Hugging Face Transformers from facebook/bart-large-cnn open LLM for Summarize the transcription
